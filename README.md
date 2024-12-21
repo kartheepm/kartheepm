@@ -20,6 +20,17 @@ Dynamic Backend Developer with **5 years of proven experience** in building scal
 
 ---
 
+## Project Highlights  
+
+**Taxi Booking Application (Eg: OLA, Uber)**  
+- Handled 28K–30K requests per minute during peak times.
+- Managed 72L users, including 20L active users in the User App and 20K drivers.
+- Scaled daily bookings from 100 to 60K/day, with a total of 5.5 crore bookings to date.
+- Maintained a 700GB database with 4 replicas on r6g.2x.large machines.
+- Delivered 14 modules, including Web, Driver App, User App, Vendor App, Reports, and more.
+
+---
+
 ## Contributions Activity  
 
 ![GitHub Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kartheepm&theme=react-dark&hide_border=true&area=true)
@@ -31,25 +42,18 @@ Dynamic Backend Developer with **5 years of proven experience** in building scal
 **Senior PHP Developer**  
 **Mallow Technologies Private Limited – Coimbatore**  
 **April 2022 – Present**  
-- Developed and scaled features for a taxi booking application, handling 30K+ requests per minute and maintaining 700GB database.
-- Led a team to scale daily bookings from 100 to 60K per day, with over 5.5 crore total bookings.
-- Optimized query and logic to improve performance and system scalability.
 
 **PHP Developer**  
 **Mallow Technologies Private Limited – Coimbatore**  
 **April 2021 – April 2022**  
-- Contributed to backend development using **Laravel** and managed database optimizations.
-- Assisted in scaling and maintaining a system supporting over 72L users.
 
 **PHP Junior Developer**  
 **Mallow Technologies Private Limited – Coimbatore**  
 **Feb 2020 – April 2021**  
-- Worked on backend features and functionality, focusing on performance and stability.
 
 **PHP Developer Trainee**  
 **Mallow Technologies Private Limited – Coimbatore**  
 **Aug 2019 – Feb 2020**  
-- Participated in the development of web applications under the mentorship of senior developers.
 
 ---
 
